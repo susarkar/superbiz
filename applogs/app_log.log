@@ -1,0 +1,131 @@
+[INFO ] 2017-02-15 16:47:17.832 [http-nio-8080-exec-1] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-15 16:48:39.936 [http-nio-8080-exec-1] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-15 16:50:46.523 [http-nio-8080-exec-1] UserController - called userlogin () 
+[DEBUG] 2017-02-15 16:56:06.565 [http-nio-8080-exec-3] UserController - called userlogin () 
+[DEBUG] 2017-02-15 16:56:21.282 [http-nio-8080-exec-4] UserController - called userlogin () 
+[DEBUG] 2017-02-15 17:32:06.884 [http-nio-8080-exec-1] UserController - called userlogin () LoginCredential [mobileNumber=8017620823, password=12345]
+[DEBUG] 2017-02-15 17:38:39.776 [http-nio-8080-exec-3] UserController - called userlogin () LoginCredential [mobileNumber=8017620823, password=11345]
+[DEBUG] 2017-02-15 17:38:51.682 [http-nio-8080-exec-4] UserController - called userlogin () LoginCredential [mobileNumber=8017620823, password=11345]
+[DEBUG] 2017-02-15 17:47:16.179 [http-nio-8080-exec-1] UserController - called userlogin () LoginCredential [mobileNumber=8017620823, password=11345]
+[DEBUG] 2017-02-15 17:51:58.440 [http-nio-8080-exec-1] UserController - called userlogin () LoginCredential [mobileNumber=8017620823, password=12345]
+[DEBUG] 2017-02-17 09:24:56.555 [http-nio-8080-exec-5] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 10:32:28.434 [http-nio-8080-exec-1] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 10:33:17.293 [http-nio-8080-exec-2] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 11:19:41.827 [http-nio-8080-exec-1] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 11:25:30.116 [http-nio-8080-exec-2] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 11:29:18.069 [http-nio-8080-exec-1] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 11:38:25.624 [http-nio-8080-exec-2] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 11:40:05.721 [http-nio-8080-exec-1] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-17 11:41:55.639 [http-nio-8080-exec-1] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-24 12:45:44.999 [http-nio-8080-exec-1] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 12:46:15.735 [http-nio-8080-exec-2] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 12:46:16.951 [http-nio-8080-exec-3] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 12:46:17.364 [http-nio-8080-exec-4] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 12:55:00.439 [http-nio-8080-exec-3] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:00:26.871 [http-nio-8080-exec-5] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:01:45.358 [http-nio-8080-exec-7] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:02:42.447 [http-nio-8080-exec-8] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:08:12.509 [http-nio-8080-exec-1] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:08:12.608 [http-nio-8080-exec-1] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-02-24 13:12:04.938 [http-nio-8080-exec-3] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:12:04.947 [http-nio-8080-exec-3] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-02-24 13:15:50.120 [http-nio-8080-exec-5] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:15:50.128 [http-nio-8080-exec-5] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-02-24 13:16:48.068 [http-nio-8080-exec-7] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-24 13:16:48.077 [http-nio-8080-exec-7] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-02-27 20:11:29.524 [http-nio-8080-exec-9] ServerController - Hello testing Log to the console
+[DEBUG] 2017-02-28 09:53:15.103 [http-nio-8080-exec-3] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-28 09:53:15.177 [http-nio-8080-exec-3] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-02-28 10:07:34.399 [http-nio-8080-exec-1] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-28 10:07:34.523 [http-nio-8080-exec-1] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-02-28 10:11:26.889 [http-nio-8080-exec-3] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-02-28 10:11:26.901 [http-nio-8080-exec-3] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-02-28 10:21:51.637 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-02-28 10:24:47.900 [http-nio-8080-exec-7] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-02-28 10:41:45.442 [http-nio-8080-exec-9] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-02-28 14:54:26.284 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 18:20:15.993 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 18:25:14.110 [http-nio-8080-exec-3] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 18:28:06.922 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 22:04:31.758 [http-nio-8080-exec-7] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 22:06:46.802 [http-nio-8080-exec-9] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 22:08:38.425 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 22:09:48.969 [http-nio-8080-exec-3] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-04 22:13:53.867 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 18:11:25.839 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:29:22.523 [http-nio-8080-exec-3] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:32:33.040 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:35:26.618 [http-nio-8080-exec-7] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:35:53.387 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:37:43.876 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:47:24.722 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:52:56.558 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:53:44.681 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 19:55:43.636 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 20:10:33.780 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 20:27:14.418 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-13 20:37:58.527 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 07:25:52.633 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 07:34:23.507 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 08:05:45.303 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 10:48:49.134 [http-nio-8080-exec-2] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-03-14 10:48:56.646 [http-nio-8080-exec-2] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-03-14 10:50:25.908 [http-nio-8080-exec-3] UserController - called login () param = LoginCredential [mobileNumber=8017620823, password=Pass1234]
+[DEBUG] 2017-03-14 10:50:25.910 [http-nio-8080-exec-3] UserController - Retun Model = UserDetailsModel [id=58afd35aa9abd122b41b7c73, userId=10, mobileNumber=8017620823, name=Susanta, email=susanta-sarakr@gmail, password=Pass1234, dob=Fri Feb 24 12:01:54 IST 2017, agreedTC=true, sponsorId=9, authToken=, deviceRegId=, role=USER]
+[DEBUG] 2017-03-14 10:50:26.071 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 10:53:57.019 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 10:55:00.686 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 10:56:04.642 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 10:57:56.995 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 10:58:47.843 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:07:10.554 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:07:53.508 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:08:50.003 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:09:54.612 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:10:45.367 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:13:02.357 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:15:57.045 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:20:16.639 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:24:16.855 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:27:05.909 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:29:06.325 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 11:30:31.877 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:08:43.761 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:10:27.013 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:10:39.599 [http-nio-8080-exec-3] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:11:17.990 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:20:44.912 [http-nio-8080-exec-7] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:22:01.693 [http-nio-8080-exec-9] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:26:43.213 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:29:41.876 [http-nio-8080-exec-3] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:29:57.950 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:32:37.710 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:33:01.960 [http-nio-8080-exec-7] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:33:12.714 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:44:05.581 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:44:53.010 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:52:29.053 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:52:51.488 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:52:57.325 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:53:40.024 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:54:19.095 [http-nio-8080-exec-9] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-14 16:56:28.043 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 20:40:30.429 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 20:44:03.211 [http-nio-8080-exec-3] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 20:45:58.322 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 20:48:08.966 [http-nio-8080-exec-7] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 20:48:12.027 [http-nio-8080-exec-8] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 20:48:31.498 [http-nio-8080-exec-9] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 20:51:34.139 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:16:33.045 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:16:35.555 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:17:25.393 [http-nio-8080-exec-3] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:21:24.634 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:21:27.833 [http-nio-8080-exec-6] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:21:44.407 [http-nio-8080-exec-7] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:26:34.021 [http-nio-8080-exec-9] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:26:37.189 [http-nio-8080-exec-10] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:26:54.125 [http-nio-8080-exec-1] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:26:57.354 [http-nio-8080-exec-2] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:28:10.308 [http-nio-8080-exec-4] WelcomeAppController - Wlcome app list controller 
+[DEBUG] 2017-03-15 22:28:13.522 [http-nio-8080-exec-5] WelcomeAppController - Wlcome app list controller 
